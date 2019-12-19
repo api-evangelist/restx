@@ -1,0 +1,45 @@
+{
+    "name": "RESTX",
+    "description": "<p>the lightweight, modular, feature rich, blazing fast, open source Java REST framework<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/restx-logo.png",
+    "tags": [
+        "deployment",
+        "framework",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/restx\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RESTX",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/restx-logo.png",
+            "humanURL": "http:\/\/restx.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/restx-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/restx"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/restx_"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/restx.io\/"
+        }
+    ]
+}
